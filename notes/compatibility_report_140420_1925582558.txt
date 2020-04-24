@@ -1,0 +1,32 @@
+Converting GML script: ${project_dir}\objects\obj_ex_camera_demo_camera\Create_0.gml
+Converted description /// @description  IMPORTANT: Initialize exCamera FIRST, setup Camera next
+
+Converting GML script: ${project_dir}\objects\obj_ex_camera_demo_camera\Alarm_0.gml
+Converted description /// @description  Reset camera follow back to object
+
+Converting GML script: ${project_dir}\objects\obj_ex_camera_demo_camera\Step_0.gml
+Converted description /// @description  Follow player and play Effects
+
+Converting GML script: ${project_dir}\objects\obj_ex_camera_demo_camera\Mouse_50.gml
+Converted description /// @description  Test Effects (Mobile)/// @param Mobile
+
+Converting GML script: ${project_dir}\objects\obj_ex_camera_demo_camera\Other_5.gml
+Converted description /// @description  Cleanup Camera
+
+Converting GML script: ${project_dir}\objects\obj_ex_camera_demo_player\Step_0.gml
+Converted description /// @description  Movement
+
+Converting GML script: ${project_dir}\objects\obj_ex_camera_demo_player\Mouse_53.gml
+Converted description /// @description  Get X,Y Coordinates
+
+Converting GML script: ${project_dir}\objects\obj_ex_camera_demo_player\Draw_64.gml
+Converted description /// @description  Draw text
+
+Converting GML script: ${project_dir}\objects\obj_ex_camera_demo_player\KeyPress_82.gml
+Converted description /// @description  Restart room
+
+Converting GML script: ${project_dir}\objects\obj_ex_camera_demo_player\KeyPress_27.gml
+Converted description /// @description  Quit game
+
+Converting GML script: ${project_dir}\objects\obj_ex_camera_demo_player\KeyPress_8.gml
+Converted description /// @description  Restart room (Mobile)/// @param Mobile
