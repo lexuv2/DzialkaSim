@@ -4,7 +4,8 @@
     "mvc": "1.1",
     "name": "10ec78c4-13c1-4155-8e07-c319a78e7d51",
     "children": [
-        "a20a5c5e-3108-4415-bfae-8b253ad9cadc"
+        "a20a5c5e-3108-4415-bfae-8b253ad9cadc",
+        "74b6a1ff-45d9-4df9-bc91-5dce5bbbd11e"
     ],
     "filterType": "GMSprite",
     "folderName": "GUI",

@@ -16,3 +16,6 @@ if it%6==3 and started
 }
 if started
 obj_pickup.phy_position_x+=2
+
+if a==1
+room_goto(room_pick_map)
