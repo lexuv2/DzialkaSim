@@ -879,6 +879,14 @@
             }
         },
         {
+            "Key": "a399dd30-dad4-44e6-a7dd-066ec0cb4dde",
+            "Value": {
+                "id": "529846dc-cf38-477d-b706-747411785f6b",
+                "resourcePath": "sprites\\spr_leaf\\spr_leaf.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a4420f57-cfe7-40b6-bb0c-a1f760d67e1a",
             "Value": {
                 "id": "c123d5e4-0f3f-4539-a4fb-baf846a7dd0c",
@@ -903,6 +911,14 @@
             }
         },
         {
+            "Key": "a9334635-296b-4fd5-9f9f-13df595e94e8",
+            "Value": {
+                "id": "f8349c6c-e6a4-49e1-b7fe-0b5d0d95b518",
+                "resourcePath": "objects\\obj_wind_controller\\obj_wind_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "aa14c6e0-7be9-4a17-a91f-816c4e8d2b09",
             "Value": {
                 "id": "414ea93b-9676-43e7-b244-d0d06fafc92d",
@@ -924,6 +940,14 @@
                 "id": "1eb6a589-3a0c-4063-a687-f495c741ab76",
                 "resourcePath": "sprites\\spr_wood_log_striped\\spr_wood_log_striped.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b0ebc324-813b-413e-9462-68d95baaa78d",
+            "Value": {
+                "id": "8902cd8d-b63e-4e9a-b0b0-ee7ded4df54b",
+                "resourcePath": "objects\\obj_prop_falling_leaf\\obj_prop_falling_leaf.yy",
+                "resourceType": "GMObject"
             }
         },
         {

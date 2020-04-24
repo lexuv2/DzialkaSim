@@ -29,10 +29,10 @@ sunrise[? "aber"]=0;
 sunrise[? "next"]=night;
 
 
-
-
 #endregion
 
+global.wind_direction=0;
+global.wind_strength=0;
 
 
 var seed = random_get_seed()
