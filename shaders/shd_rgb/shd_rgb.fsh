@@ -18,8 +18,6 @@ void main()
 
 	
 	
-    
-
 	
 	
 	vec4 Color1 = texture2D( gm_BaseTexture, v_vTexcoord )/3.0;

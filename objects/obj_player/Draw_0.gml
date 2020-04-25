@@ -4,7 +4,6 @@
 draw_self()
 
 
-
 if global.debugmode
 {
 	draw_text(100,100,x)

@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "31dd6b4b-ce8c-4667-9cc5-fad7c69f0a05",
+            "Value": {
+                "id": "c35de5ed-3c1a-44fe-8c5d-6a0cf0bbaa8e",
+                "resourcePath": "scripts\\scr_shader_all_set_uniforms\\scr_shader_all_set_uniforms.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "31ffcac6-f5f7-438a-96e9-fca715bc06df",
             "Value": {
                 "id": "789518db-6ccd-4361-8f01-8d79d7803cca",
@@ -1421,7 +1429,8 @@
         "9b100572-9824-4cfb-b7c6-a082e0f9fd77",
         "64274600-49e2-48f9-9fe8-21973b14a5f5",
         "f069e60d-ed98-4aa7-bb4f-800df94561db",
-        "453b80b2-9da6-4490-936a-022bbebe0929"
+        "453b80b2-9da6-4490-936a-022bbebe0929",
+        "31dd6b4b-ce8c-4667-9cc5-fad7c69f0a05"
     ],
     "tutorial": ""
 }

@@ -1,29 +1,49 @@
 /// @description Insert description here
 // You can write your code in this editor
-//layer_shader("shader_affected",shd_rgb)
-
-
-//var rr = shader_get_uniform(shd_rgb,"rr")
-//var bb = shader_get_uniform(shd_rgb,"bb")
-//var gg = shader_get_uniform(shd_rgb,"gg")
-
-//var contrast = shader_get_uniform(shd_rgb,"contrast")
-//var saturation = shader_get_uniform(shd_rgb,"saturation")
-//var aberration = shader_get_uniform(shd_rgb,"aberration")
 
 
 
-//shader_set_uniform_f(rr,global.red+global.rgb)
-//shader_set_uniform_f(gg,global.green+global.rgb)
-//shader_set_uniform_f(bb,global.blue+global.rgb)
 
-//shader_set_uniform_f(contrast,global.contrast)
-//shader_set_uniform_f(saturation,global.saturation)
 
-//shader_set_uniform_f(aberration,global.aberration)
 
- 
-//shader_reset()
+for (var i=0;i<ds_list_size(all_day_times);i++)
+{
+
+		if ds_map_find_value(all_day_times[|i],"h")<=global.time_hour
+		{
+		var act=all_day_times[| i];
+		}
+		
+	
+}
+
+var act_r = lerp(act[? "r"],ds_map_find_value(act[?"next"],"r"),(global.time_hour-act[? "h"]+global.time_minute/60)/(ds_map_find_value(act[?"next"],"h")-act[? "h"]))
+var act_g = lerp(act[? "g"],ds_map_find_value(act[?"next"],"g"),(global.time_hour-act[? "h"]+global.time_minute/60)/(ds_map_find_value(act[?"next"],"h")-act[? "h"]))
+var act_b = lerp(act[? "b"],ds_map_find_value(act[?"next"],"b"),(global.time_hour-act[? "h"]+global.time_minute/60)/(ds_map_find_value(act[?"next"],"h")-act[? "h"]))
+
+
+
+var act_sat = lerp(act[? "sat"],ds_map_find_value(act[?"next"],"sat"),(global.time_hour-act[? "h"]+global.time_minute/60)/(ds_map_find_value(act[?"next"],"h")-act[? "h"]))
+var act_aber = lerp(act[? "aber"],ds_map_find_value(act[?"next"],"aber"),(global.time_hour-act[? "h"]+global.time_minute/60)/(ds_map_find_value(act[?"next"],"h")-act[? "h"]))
+var act_cont = lerp(act[? "cont"],ds_map_find_value(act[?"next"],"cont"),(global.time_hour-act[? "h"]+global.time_minute/60)/(ds_map_find_value(act[?"next"],"h")-act[? "h"]))
+
+
+
+
+global.rr=act_r;
+global.gg=act_g;
+global.bb=act_b;
+
+global.saturation=act_sat;
+global.contrast=act_cont;
+global.aberration=act_aber;
+
+
+layer_shader("Ground",shd_rgb)
+layer_script_begin("ground",scr_shader_all_set_uniforms)
+
+
+shader_reset()
 
 
 
