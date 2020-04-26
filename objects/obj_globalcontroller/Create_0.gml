@@ -7,6 +7,7 @@ all_day_times = ds_list_create()
 
 
 sunrise = ds_map_create()
+sunset = ds_map_create()
 night = ds_map_create()
 night_dummy = ds_map_create() // add as next for latest shader
 
@@ -30,7 +31,18 @@ sunrise[? "rgb"]=0;
 sunrise[? "cont"]=1.05;
 sunrise[? "sat"]=1.2;
 sunrise[? "aber"]=0;
-sunrise[? "next"]=night_dummy;
+sunrise[? "next"]=sunset;
+
+sunset[? "h"]=17;  // godzina kiedy shader jest najmocniejszy
+sunset[? "r"]=0.16;
+sunset[? "g"]=0.05;
+sunset[? "b"]=0;
+sunset[? "rgb"]=0;
+sunset[? "cont"]=1.1;
+sunset[? "sat"]=1.3;
+sunset[? "aber"]=0;
+sunset[? "next"]=night_dummy;
+
 
 night_dummy[? "h"]=24; 
 night_dummy[? "r"]=night[? "r"];
@@ -44,6 +56,7 @@ night_dummy[? "next"]=night;
 
 ds_list_add(all_day_times,night)
 ds_list_add(all_day_times,sunrise)
+ds_list_add(all_day_times,sunset)
 ds_list_add(all_day_times,night_dummy)
 
 #endregion

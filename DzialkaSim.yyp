@@ -479,6 +479,14 @@
             }
         },
         {
+            "Key": "550d9297-62ac-4001-af8c-fd2cea03b38d",
+            "Value": {
+                "id": "f5ddf4a6-410a-4420-95c8-8715f6ba121e",
+                "resourcePath": "objects\\obj_draw_dialog_test\\obj_draw_dialog_test.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "555ea77e-d378-43a2-9320-83dadd67c00f",
             "Value": {
                 "id": "2a5362e3-50d3-468c-bcdf-d96a21d7ee4e",
@@ -1084,6 +1092,14 @@
                 "id": "f1fe115f-c93d-4a6d-bbf8-953b30e752a2",
                 "resourcePath": "scripts\\scr_ease_in_sine\\scr_ease_in_sine.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "bc3ac7b6-e8f3-4cd4-b110-abec1389a171",
+            "Value": {
+                "id": "060e42fe-206e-49a8-a0a5-88503ee069ad",
+                "resourcePath": "rooms\\room_testing\\room_testing.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
