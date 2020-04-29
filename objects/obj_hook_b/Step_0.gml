@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-backpack_version = obj_hook_b
-depth= -y;
-camx=0;
-camy=0;
+
+phy_speed_x=obj_backpack.phy_speed_x
+phy_speed_y=obj_backpack.phy_speed_y
+
+
+//ZW

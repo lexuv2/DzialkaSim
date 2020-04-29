@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "28089c51-ec75-4031-a941-e298deba13e0",
+            "Value": {
+                "id": "8cc745e7-263b-466f-b7e2-0b54c6ced503",
+                "resourcePath": "sprites\\sprite31\\sprite31.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "29531f02-acee-4eeb-8573-f0b9ad4e656a",
             "Value": {
                 "id": "0c2270a4-79c3-4a4a-bdaa-1438a9eb4cc3",
@@ -967,6 +975,14 @@
             }
         },
         {
+            "Key": "952c2b52-3c28-4b55-880f-c576dd097bff",
+            "Value": {
+                "id": "59b39a78-d8a9-47cc-8f63-72d7cd5c7625",
+                "resourcePath": "objects\\obj_tree_1\\obj_tree_1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "96143e45-bd90-44ed-b1df-59c108f63224",
             "Value": {
                 "id": "bd1d8354-2165-46ae-8601-2d396c540533",
@@ -1068,6 +1084,14 @@
                 "id": "e6d083fc-a30b-4b56-a591-d726d9e45767",
                 "resourcePath": "views\\a138b9d2-ad2e-4682-8eab-68657031e745.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a1a2704f-3fe8-478b-a85d-62776c1d0a0d",
+            "Value": {
+                "id": "2e181459-e09a-468d-9048-5106a8b3f025",
+                "resourcePath": "objects\\obj_backpack_obj_template\\obj_backpack_obj_template.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1403,6 +1427,14 @@
             "Value": {
                 "id": "8e6e0c3e-4121-4af2-8b35-37f0d91136ed",
                 "resourcePath": "objects\\obj_light_obj_template\\obj_light_obj_template.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d1a30988-a6ed-4897-a2dd-082d89733056",
+            "Value": {
+                "id": "83968410-d5d6-4b24-a103-210065df4ca0",
+                "resourcePath": "objects\\obj_backpack\\obj_backpack.yy",
                 "resourceType": "GMObject"
             }
         },
