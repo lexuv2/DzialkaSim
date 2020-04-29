@@ -4,3 +4,5 @@
 //phy_rotation=0;
 if obj_fishing_rod_float.line_len<7
 phy_speed_y+=0.1;
+
+depth=-y-30;
