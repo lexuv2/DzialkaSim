@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 global.time_tick++;
-if global.time_tick>=1
+if global.time_tick>=3
 {
 	global.time_tick=0;
 	global.time_minute++;

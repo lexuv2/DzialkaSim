@@ -12,5 +12,6 @@ var draw_minute_tmp = string(global.time_minute)
 if global.time_minute < 10
 draw_minute_tmp="0"+draw_minute_tmp
 
-draw_sprite(spr_clock_bg,0,1856-32,0-16)
+draw_sprite(spr_clock_bg,0,1856-32,0)
 draw_text(1856-20,0-16,draw_hour_tmp+":"+draw_minute_tmp)
+

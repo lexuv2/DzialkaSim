@@ -28,18 +28,18 @@ sunrise[? "r"]=0;
 sunrise[? "g"]=0;
 sunrise[? "b"]=0;
 sunrise[? "rgb"]=0;
-sunrise[? "cont"]=1.05;
-sunrise[? "sat"]=1.2;
+sunrise[? "cont"]=1.150;
+sunrise[? "sat"]=0.8;
 sunrise[? "aber"]=0;
 sunrise[? "next"]=sunset;
 
-sunset[? "h"]=17;  // godzina kiedy shader jest najmocniejszy
-sunset[? "r"]=0.16;
+sunset[? "h"]=18;  // godzina kiedy shader jest najmocniejszy
+sunset[? "r"]=0.2;
 sunset[? "g"]=0.05;
 sunset[? "b"]=0;
 sunset[? "rgb"]=0;
 sunset[? "cont"]=1.1;
-sunset[? "sat"]=1.3;
+sunset[? "sat"]=0.8;
 sunset[? "aber"]=0;
 sunset[? "next"]=night_dummy;
 

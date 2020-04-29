@@ -9,3 +9,13 @@ holds_heavy_item = false;
 hand_x=0;
 hand_y=0;
 pressedkeys=0;
+
+
+tools = ds_list_create()
+ds_list_add(tools, obj_noone)
+ds_list_add(tools, obj_fishing_rod_float)
+
+max_tools = ds_list_size(tools)
+tool_now = 0;
+
+inst = noone

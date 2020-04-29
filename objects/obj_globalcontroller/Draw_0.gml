@@ -40,11 +40,10 @@ global.aberration=act_aber;
 
 
 layer_shader("Ground",shd_rgb)
+layer_shader("Dirth_paths",shd_rgb)
 layer_script_begin("ground",scr_shader_all_set_uniforms)
 
-
 shader_reset()
-
 
 
 

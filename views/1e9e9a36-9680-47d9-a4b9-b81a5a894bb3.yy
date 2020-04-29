@@ -6,7 +6,8 @@
     "children": [
         "31ffcac6-f5f7-438a-96e9-fca715bc06df",
         "56880d09-89d8-4a0e-ae07-958767495703",
-        "07d9f166-9904-4213-9dbd-8504471a00e5"
+        "07d9f166-9904-4213-9dbd-8504471a00e5",
+        "55c672b1-8008-4d83-9d3d-12715e711bc5"
     ],
     "filterType": "GMObject",
     "folderName": "Heavy_Items",
