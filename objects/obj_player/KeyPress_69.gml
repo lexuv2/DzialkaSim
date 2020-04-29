@@ -22,6 +22,11 @@ else
 {
 	holds_heavy_item=false
 	physics_joint_delete(joint)
+	with(inst)
+	{
+	phy_position_x = (phy_position_x div 1) * 1;
+	phy_position_y = (phy_position_y div 1) * 1;
+	}
 }
 
 var xy = scr_lenghtdir_mouse(8)

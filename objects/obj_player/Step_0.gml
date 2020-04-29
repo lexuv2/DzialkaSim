@@ -7,6 +7,8 @@ depth=-y-16;
 if inst
 {
 	if point_distance(x,y,inst.x,inst.y)>30
+	{
 	physics_joint_delete(joint)
 	inst = noone
+	}
 }
