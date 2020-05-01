@@ -5,16 +5,6 @@
     "name": "obj_hook",
     "eventList": [
         {
-            "id": "01626976-c1a1-490c-983d-4b24b10c3199",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 6,
-            "m_owner": "d6a8b4fe-f191-4595-a8ca-176ec18a657d"
-        },
-        {
             "id": "e483c42c-b53a-4144-b86f-fe34ab2970e1",
             "modelName": "GMEvent",
             "mvc": "1.0",

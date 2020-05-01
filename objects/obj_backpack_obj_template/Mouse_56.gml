@@ -1,6 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-event_inherited()
-
-backpack_version = obj_hook_b
-
+pressed=false
