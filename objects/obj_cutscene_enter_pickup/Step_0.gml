@@ -1,5 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
+
+obj_player.phy_position_x=obj_pickup.x;
+obj_player.phy_position_y=obj_pickup.y;
+
 a+=0.004;
 it ++;
 obj_player.x=startx;
@@ -19,3 +23,4 @@ obj_pickup.phy_position_x+=2
 
 if a==1
 room_goto(room_pick_map)
+
