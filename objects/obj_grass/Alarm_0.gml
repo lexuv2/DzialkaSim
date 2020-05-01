@@ -1,4 +1,6 @@
 /// @description Insert description here
+// You can write your code in this editor
+
 
 image_angle+=ang_velocity;
 
@@ -28,3 +30,7 @@ if max_angle==0
 ang_velocity=0
 
 
+if point_distance(x,y,obj_player.x,obj_player.y)<60
+alarm_set(0,1)
+else 
+alarm_set(0,30)

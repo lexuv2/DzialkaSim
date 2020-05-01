@@ -751,6 +751,14 @@
             }
         },
         {
+            "Key": "72229a3a-1d96-46e9-b4f9-c71035a5a37e",
+            "Value": {
+                "id": "a2305d7b-6124-4a8d-b905-d5ac77e7fb26",
+                "resourcePath": "objects\\obj_grass_deactivator\\obj_grass_deactivator.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7480793d-abfc-4cfc-89b2-5a176830b75e",
             "Value": {
                 "id": "4f969ef5-d232-45f7-b907-6618917c6cd2",

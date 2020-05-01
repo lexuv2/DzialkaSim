@@ -9,3 +9,5 @@ r=0.0;
 g=0.0;
 first_touch =1;
 move_snap(4,4)
+
+alarm_set(0,2)
