@@ -13,7 +13,11 @@
         "a4e7fe28-047a-4bfa-951a-35c635d836c2",
         "d4a527e9-44aa-45f3-b882-eb06550b42dc",
         "207c2316-b737-451e-8a71-25e0d3dcc33e",
-        "dab4cc93-fbcd-4f32-bf62-830d623f9e0a"
+        "dab4cc93-fbcd-4f32-bf62-830d623f9e0a",
+        "463ec681-21b0-473b-b34f-ffa97e7eb6b1",
+        "993e12e8-ea4a-4bd6-a0af-460d57af49cf",
+        "dd4ff5fd-d0ba-4656-9c04-a0a21dd6012a",
+        "b454ce84-4286-4c37-9f35-6c1584ea236a"
     ],
     "filterType": "GMObject",
     "folderName": "light_items",
