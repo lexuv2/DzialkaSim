@@ -7,3 +7,5 @@ physics_joint_friction_create(id, obj_backpack, x, y, 5, 0, true)
 pressed = false
 
 creator = noone
+
+draw_desc = false;

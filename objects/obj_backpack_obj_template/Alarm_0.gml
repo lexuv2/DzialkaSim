@@ -1,6 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-event_inherited()
-
-backpack_version = obj_hook_b
-desc = "Fishing Hook Size: 3"
+obj_item_names.desc = desc
