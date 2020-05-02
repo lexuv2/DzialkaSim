@@ -1,28 +1,28 @@
 {
-    "id": "d6a8b4fe-f191-4595-a8ca-176ec18a657d",
+    "id": "207c2316-b737-451e-8a71-25e0d3dcc33e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_hook",
+    "name": "obj_fishing_weight_4G",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
         {
-            "id": "4cdd7955-0345-43ae-aa7f-208d8a9f0f15",
+            "id": "2cd9a8e1-4e19-4bcf-9b5c-e55cf936fdfa",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "d1a1d43f-9da3-4350-b94b-b5b5d8743abe",
             "propertyId": "89290828-faf6-4b3f-b2ad-818324d51ff8",
-            "value": "\"Fishing Hook Size: 3\""
+            "value": "\"Weight 4g\""
         },
         {
-            "id": "0f0c9f59-0acd-49af-af4b-87a7e7e6005b",
+            "id": "50f73b7b-be3a-4c5a-a95c-e9d9ce53150b",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "d1a1d43f-9da3-4350-b94b-b5b5d8743abe",
             "propertyId": "56ade653-7a07-44a6-87f9-fb9a9ed5e08f",
-            "value": "obj_hook_b"
+            "value": "obj_fishing_weight_4G_b"
         }
     ],
     "parentObjectId": "d1a1d43f-9da3-4350-b94b-b5b5d8743abe",
@@ -36,40 +36,26 @@
     "physicsObject": false,
     "physicsRestitution": 0.1,
     "physicsSensor": false,
-    "physicsShape": 1,
+    "physicsShape": 0,
     "physicsShapePoints": [
         {
-            "id": "7223048f-dad9-4bf1-8494-988303391972",
-            "modelName": "GMPoint",
-            "mvc": "1.0",
-            "x": 0,
-            "y": 0
-        },
-        {
-            "id": "81171121-bd73-4914-a568-2d081ed766a5",
+            "id": "3fcc3abc-b1d6-4495-a283-ec7cc170358a",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 8,
-            "y": 0
+            "y": 7
         },
         {
-            "id": "0960bdb6-bcd2-4d4a-bad9-2bf97bed6d15",
+            "id": "8b296456-5e58-49d8-889c-01b3c1ddc145",
             "modelName": "GMPoint",
             "mvc": "1.0",
-            "x": 8,
-            "y": 8
-        },
-        {
-            "id": "dd121062-61f4-451f-bce1-b6d6c25f8e09",
-            "modelName": "GMPoint",
-            "mvc": "1.0",
-            "x": 0,
-            "y": 8
+            "x": 5,
+            "y": 7
         }
     ],
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "cef1e294-9d6d-41e4-a78a-ebe1a9d035ab",
+    "spriteId": "839fa48e-5e5d-45ee-af2c-ffae08c57524",
     "visible": true
 }

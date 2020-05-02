@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "207c2316-b737-451e-8a71-25e0d3dcc33e",
+            "Value": {
+                "id": "3800a95f-9088-4a76-8873-dd965badf4e6",
+                "resourcePath": "objects\\obj_fishing_weight_4G\\obj_fishing_weight_4G.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "20a81d50-1191-4571-8ba9-84c0f6e19cc4",
             "Value": {
                 "id": "6f49df60-c5dd-4ed0-ad3f-86ff98e2a7b5",
@@ -746,7 +754,7 @@
             "Key": "6b6eefc0-1ff0-47f6-8076-7b1bd53e316a",
             "Value": {
                 "id": "faf46741-0847-46ba-ac36-aa69199c17a3",
-                "resourcePath": "sprites\\spr_fishing_weight_2\\spr_fishing_weight_2.yy",
+                "resourcePath": "sprites\\spr_fishing_weight_4G\\spr_fishing_weight_4G.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -890,7 +898,7 @@
             "Key": "839fa48e-5e5d-45ee-af2c-ffae08c57524",
             "Value": {
                 "id": "e9d89164-7eff-4db5-bfae-88d9715ab383",
-                "resourcePath": "sprites\\spr_fishing_weight_3\\spr_fishing_weight_3.yy",
+                "resourcePath": "sprites\\spr_fishing_weight_6G\\spr_fishing_weight_6G.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1175,6 +1183,14 @@
             }
         },
         {
+            "Key": "a4e7fe28-047a-4bfa-951a-35c635d836c2",
+            "Value": {
+                "id": "6c81d3fd-92fb-4ca5-bc87-dbd08389c92e",
+                "resourcePath": "objects\\obj_fishing_weight_2G\\obj_fishing_weight_2G.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a86cfb9e-783b-4a81-9d36-bc12743e4d9f",
             "Value": {
                 "id": "f7adf5bb-3436-458b-b51e-845e32ce81b3",
@@ -1236,6 +1252,14 @@
                 "id": "4fec678a-9614-4df3-bf09-35806960dcfb",
                 "resourcePath": "views\\aca46d16-442f-409d-bd68-1bb116ba8d82.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "adb80065-10f1-4d87-a849-d7e73191f5e5",
+            "Value": {
+                "id": "645b4bbf-fbbe-4882-b9ac-12c537e24153",
+                "resourcePath": "objects\\obj_hook_size_2\\obj_hook_size_2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1391,6 +1415,14 @@
             }
         },
         {
+            "Key": "c162c699-d8a3-4f27-a685-6b4333deb380",
+            "Value": {
+                "id": "53616cdd-8ebe-4b42-bd80-7b10094f85c5",
+                "resourcePath": "objects\\obj_hook_size_2_b\\obj_hook_size_2_b.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c29e1810-9215-4c49-ba6a-985e22d1014a",
             "Value": {
                 "id": "798ee64e-dc78-46e2-8d90-061e40de9985",
@@ -1466,7 +1498,7 @@
             "Key": "cef1e294-9d6d-41e4-a78a-ebe1a9d035ab",
             "Value": {
                 "id": "24ef5fd5-7b42-40b6-be98-25d316da9a4b",
-                "resourcePath": "sprites\\spr_hook_1\\spr_hook_1.yy",
+                "resourcePath": "sprites\\spr_hook_size3\\spr_hook_size3.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1506,8 +1538,16 @@
             "Key": "d307f766-e1a4-4d9b-823a-eb70a302158f",
             "Value": {
                 "id": "09f14fbf-0bdb-47cf-b9f0-409ce5bf2427",
-                "resourcePath": "sprites\\spr_fishing_weight_1\\spr_fishing_weight_1.yy",
+                "resourcePath": "sprites\\spr_fishing_weight_2G\\spr_fishing_weight_2G.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d4a527e9-44aa-45f3-b882-eb06550b42dc",
+            "Value": {
+                "id": "d703086f-7f0e-47da-8268-2553b13449e3",
+                "resourcePath": "objects\\obj_fishing_weight_2G_b\\obj_fishing_weight_2G_b.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1554,8 +1594,16 @@
             "Key": "d91ce9c9-4edc-47c1-a8f4-c66679de6acd",
             "Value": {
                 "id": "591fc480-70c7-4762-851a-303f8ad529ad",
-                "resourcePath": "sprites\\spr_hook_2\\spr_hook_2.yy",
+                "resourcePath": "sprites\\spr_hook_size2\\spr_hook_size2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dab4cc93-fbcd-4f32-bf62-830d623f9e0a",
+            "Value": {
+                "id": "90c76dcd-5bf0-4f41-b45f-f1f262797770",
+                "resourcePath": "objects\\obj_fishing_weight_4G_b\\obj_fishing_weight_4G_b.yy",
+                "resourceType": "GMObject"
             }
         },
         {
