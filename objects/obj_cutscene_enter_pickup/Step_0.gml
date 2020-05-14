@@ -15,8 +15,6 @@ if it%6==0 and started
 if it%6==3 and started
 {
 	obj_pickup.phy_position_y-=1
-	
-	
 }
 if started
 obj_pickup.phy_position_x+=2

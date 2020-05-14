@@ -13,7 +13,7 @@ pressedkeys=0;
 
 tools = ds_list_create()
 ds_list_add(tools, obj_noone)
-ds_list_add(tools, obj_fishing_rod_float)
+ds_list_add(tools, obj_fishing_rod)
 
 max_tools = ds_list_size(tools)
 tool_now = 0;

@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-instance_create_layer(x,y,"instances",obj_wood_log_stripped)
-alarm[1]=120
-particles=true
+
+alarm_set(2,240)
+particles=true;
+alarm_set(1,180)
+it =0

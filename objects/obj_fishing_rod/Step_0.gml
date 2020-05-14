@@ -9,4 +9,7 @@ var dir = point_direction(obj_player.phy_position_x,obj_player.phy_position_y,mo
 phy_speed_x = (lengthdir_x(len,dir)+obj_player.phy_position_x - x);
 phy_speed_y = (lengthdir_y(len,dir)+obj_player.phy_position_y - y);
 
-
+if line_len>20
+ex_camera_scroll_to_object("main", obj_float_ingame, 6, scr_ease_inout_sine, true);
+else
+ex_camera_scroll_to_object("main", obj_player, 6, scr_ease_inout_sine, true);

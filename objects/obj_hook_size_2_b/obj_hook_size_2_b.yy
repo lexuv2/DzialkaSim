@@ -7,7 +7,32 @@
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": null,
+    "overriddenProperties": [
+        {
+            "id": "f6587c5c-767c-4a6f-97b4-e0c87a03764a",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "a1a2704f-3fe8-478b-a85d-62776c1d0a0d",
+            "propertyId": "73f3d719-6f69-4c61-84fa-cfa51966a734",
+            "value": "fishing"
+        },
+        {
+            "id": "b7e415fe-2647-4736-bc21-968e45690557",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "a1a2704f-3fe8-478b-a85d-62776c1d0a0d",
+            "propertyId": "1fe3347d-c9da-44f1-82df-19cf33b8ac71",
+            "value": "hook"
+        },
+        {
+            "id": "e186f2ca-bd34-4041-af2a-e303a16f3aea",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "a1a2704f-3fe8-478b-a85d-62776c1d0a0d",
+            "propertyId": "21f71266-76eb-44d7-a71d-cf41be6d0db4",
+            "value": "2"
+        }
+    ],
     "parentObjectId": "a1a2704f-3fe8-478b-a85d-62776c1d0a0d",
     "persistent": false,
     "physicsAngularDamping": 0.1,

@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-alarm[0]=2
-particles=false;
+float_weight=2
+weight_weight=2
+string_strength=1
+hook_size=1
 
-it =0;
+float_inst = obj_float

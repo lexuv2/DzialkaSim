@@ -2,7 +2,7 @@
     "id": "232a3881-389e-4ea1-95f1-d29dc08a0dcd",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_fishing_rod_float",
+    "name": "obj_fishing_rod",
     "eventList": [
         {
             "id": "35e57e6a-1b12-4567-b72c-cd7dc1fa21a2",
@@ -35,22 +35,12 @@
             "m_owner": "232a3881-389e-4ea1-95f1-d29dc08a0dcd"
         },
         {
-            "id": "2e4c57b9-7a02-4fa7-a5af-afd19bd676b6",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 50,
-            "eventtype": 6,
-            "m_owner": "232a3881-389e-4ea1-95f1-d29dc08a0dcd"
-        },
-        {
             "id": "bff242cc-6a71-4384-8a23-9834c71749af",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 51,
+            "enumb": 54,
             "eventtype": 6,
             "m_owner": "232a3881-389e-4ea1-95f1-d29dc08a0dcd"
         },
@@ -72,6 +62,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 1,
             "eventtype": 3,
+            "m_owner": "232a3881-389e-4ea1-95f1-d29dc08a0dcd"
+        },
+        {
+            "id": "b04772f0-5c2a-41ab-83b1-8b44317dee08",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 50,
+            "eventtype": 6,
             "m_owner": "232a3881-389e-4ea1-95f1-d29dc08a0dcd"
         }
     ],

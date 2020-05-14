@@ -26,4 +26,5 @@ offsety=8;
 //physics_fixture_set_density(fix_side,-1)
 //physics_fixture_bind(fix_side,id)
 
-instance_create_layer(x+16,y-16,"instances",obj_wood_cutter_helper)
+inst = instance_create_layer(x+16,y-16,"instances",obj_wood_cutter_helper)
+inst.creator = id

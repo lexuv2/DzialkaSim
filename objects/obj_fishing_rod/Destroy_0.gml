@@ -1,3 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-particles=false;
+instance_destroy(obj_float_ingame)
