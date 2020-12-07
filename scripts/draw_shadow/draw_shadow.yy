@@ -1,8 +1,12 @@
 {
-    "id": "d2f7bc60-0ac1-4ab3-97f4-0ba948ea8dcd",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "draw_shadow",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Scripts",
+    "path": "folders/Scripts.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "draw_shadow",
+  "tags": [],
+  "resourceType": "GMScript",
 }

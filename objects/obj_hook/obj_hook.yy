@@ -1,75 +1,45 @@
 {
-    "id": "d6a8b4fe-f191-4595-a8ca-176ec18a657d",
-    "modelName": "GMObject",
-    "mvc": "1.0",
-    "name": "obj_hook",
-    "eventList": [
-        
-    ],
-    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": [
-        {
-            "id": "4cdd7955-0345-43ae-aa7f-208d8a9f0f15",
-            "modelName": "GMOverriddenProperty",
-            "mvc": "1.0",
-            "objectId": "d1a1d43f-9da3-4350-b94b-b5b5d8743abe",
-            "propertyId": "89290828-faf6-4b3f-b2ad-818324d51ff8",
-            "value": "\"Fishing Hook Size: 3\""
-        },
-        {
-            "id": "0f0c9f59-0acd-49af-af4b-87a7e7e6005b",
-            "modelName": "GMOverriddenProperty",
-            "mvc": "1.0",
-            "objectId": "d1a1d43f-9da3-4350-b94b-b5b5d8743abe",
-            "propertyId": "56ade653-7a07-44a6-87f9-fb9a9ed5e08f",
-            "value": "obj_hook_b"
-        }
-    ],
-    "parentObjectId": "d1a1d43f-9da3-4350-b94b-b5b5d8743abe",
-    "persistent": false,
-    "physicsAngularDamping": 0.1,
-    "physicsDensity": 0.5,
-    "physicsFriction": 0.2,
-    "physicsGroup": 0,
-    "physicsKinematic": false,
-    "physicsLinearDamping": 0.1,
-    "physicsObject": false,
-    "physicsRestitution": 0.1,
-    "physicsSensor": false,
-    "physicsShape": 1,
-    "physicsShapePoints": [
-        {
-            "id": "7223048f-dad9-4bf1-8494-988303391972",
-            "modelName": "GMPoint",
-            "mvc": "1.0",
-            "x": 0,
-            "y": 0
-        },
-        {
-            "id": "81171121-bd73-4914-a568-2d081ed766a5",
-            "modelName": "GMPoint",
-            "mvc": "1.0",
-            "x": 8,
-            "y": 0
-        },
-        {
-            "id": "0960bdb6-bcd2-4d4a-bad9-2bf97bed6d15",
-            "modelName": "GMPoint",
-            "mvc": "1.0",
-            "x": 8,
-            "y": 8
-        },
-        {
-            "id": "dd121062-61f4-451f-bce1-b6d6c25f8e09",
-            "modelName": "GMPoint",
-            "mvc": "1.0",
-            "x": 0,
-            "y": 8
-        }
-    ],
-    "physicsStartAwake": true,
-    "properties": null,
-    "solid": false,
-    "spriteId": "cef1e294-9d6d-41e4-a78a-ebe1a9d035ab",
-    "visible": true
+  "spriteId": {
+    "name": "spr_hook_size3",
+    "path": "sprites/spr_hook_size3/spr_hook_size3.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_light_obj_template",
+    "path": "objects/obj_light_obj_template/obj_light_obj_template.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":0.0,"y":0.0,},
+    {"x":8.0,"y":0.0,},
+    {"x":8.0,"y":8.0,},
+    {"x":0.0,"y":8.0,},
+  ],
+  "eventList": [],
+  "properties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"desc","path":"objects/obj_light_obj_template/obj_light_obj_template.yy",},"objectId":{"name":"obj_light_obj_template","path":"objects/obj_light_obj_template/obj_light_obj_template.yy",},"value":"\"Fishing Hook Size: 3\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"backpack_version","path":"objects/obj_light_obj_template/obj_light_obj_template.yy",},"objectId":{"name":"obj_light_obj_template","path":"objects/obj_light_obj_template/obj_light_obj_template.yy",},"value":"obj_hook_b","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
+  "parent": {
+    "name": "light_items",
+    "path": "folders/Objects/light_items.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_hook",
+  "tags": [],
+  "resourceType": "GMObject",
 }

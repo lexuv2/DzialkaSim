@@ -1,8 +1,12 @@
 {
-    "id": "972196ba-ab7c-4878-851d-2c88b412d90d",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "scr_ease_in_elastic",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Easing",
+    "path": "folders/Scripts/Easing.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "scr_ease_in_elastic",
+  "tags": [],
+  "resourceType": "GMScript",
 }

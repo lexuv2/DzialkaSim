@@ -1,8 +1,12 @@
 {
-    "id": "765fadda-350c-46ad-a3a9-3272bb14debe",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "scr_string_pad_right",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Utility",
+    "path": "folders/Scripts/DS Print/Utility.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "scr_string_pad_right",
+  "tags": [],
+  "resourceType": "GMScript",
 }

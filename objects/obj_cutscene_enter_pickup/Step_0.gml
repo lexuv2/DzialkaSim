@@ -17,7 +17,8 @@ if it%6==3 and started
 	obj_pickup.phy_position_y-=1
 }
 if started
-obj_pickup.phy_position_x+=2
+obj_pickup.phy_position_x+=base_sped
+base_sped*=1.012
 
 if a==1
 room_goto(room_pick_map)

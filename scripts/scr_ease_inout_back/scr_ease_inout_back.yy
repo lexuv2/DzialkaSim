@@ -1,8 +1,12 @@
 {
-    "id": "707e58cc-ac36-4cd8-8375-865fc1a73212",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "scr_ease_inout_back",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Easing",
+    "path": "folders/Scripts/Easing.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "scr_ease_inout_back",
+  "tags": [],
+  "resourceType": "GMScript",
 }
