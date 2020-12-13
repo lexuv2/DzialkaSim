@@ -25,12 +25,14 @@
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_prop_template","path":"objects/obj_prop_template/obj_prop_template.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_prop_template","path":"objects/obj_prop_template/obj_prop_template.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_prop_template","path":"objects/obj_prop_template/obj_prop_template.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":73,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_prop_template","path":"objects/obj_prop_template/obj_prop_template.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Props",
+    "path": "folders/Objects/Props.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_prop_template",

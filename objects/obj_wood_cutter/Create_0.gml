@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-depth = -y;
+event_inherited()
 
 fix_up = physics_fixture_create()
 physics_fixture_set_polygon_shape(fix_up)
