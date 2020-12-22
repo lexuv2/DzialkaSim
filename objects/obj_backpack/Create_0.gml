@@ -3,6 +3,13 @@
 camx=0;
 camy=0;
 
+
+x=-100
+y=-100
+cam = camera_create_view(0,-50,100,100,0,-1,0,0,0,0)
+view_set_camera(1,cam)
+surf = surface_create(100,100)
+view_set_surface_id(1,surf)
 depth=-2137;
 
 fix_up = physics_fixture_create()

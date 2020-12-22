@@ -12,7 +12,7 @@
   "physicsDensity": 0.5,
   "physicsRestitution": 0.1,
   "physicsLinearDamping": 0.1,
-  "physicsAngularDamping": 0.1,
+  "physicsAngularDamping": 10.0,
   "physicsFriction": 0.2,
   "physicsStartAwake": true,
   "physicsKinematic": false,
@@ -28,6 +28,7 @@
     {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_backpack_obj_template","path":"objects/obj_backpack_obj_template/obj_backpack_obj_template.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"parent":{"name":"obj_backpack_obj_template","path":"objects/obj_backpack_obj_template/obj_backpack_obj_template.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_backpack_obj_template","path":"objects/obj_backpack_obj_template/obj_backpack_obj_template.yy",},"parent":{"name":"obj_backpack_obj_template","path":"objects/obj_backpack_obj_template/obj_backpack_obj_template.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":2,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_backpack_obj_template","path":"objects/obj_backpack_obj_template/obj_backpack_obj_template.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [
     {"varType":2,"value":"\"\"","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":null,"multiselect":false,"filters":[

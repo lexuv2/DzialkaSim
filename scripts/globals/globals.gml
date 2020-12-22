@@ -8,7 +8,8 @@ display_set_gui_size(s_x , s_y)
 enum controls
 {
 	open_sidebar = vk_tab,
-	pause = vk_escape
+	pause = vk_escape,
+	interact = ord("E"),
 }
 
 

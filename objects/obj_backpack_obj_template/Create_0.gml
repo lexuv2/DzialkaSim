@@ -2,8 +2,8 @@
 // You can write your code in this editor
 depth=-2137;
 
-physics_joint_friction_create(id, obj_backpack, x, y, 5, 0, true)
-
+//physics_joint_friction_create(id, obj_backpack, x, y, 5, 0, true)
+ls =0
 pressed = false
 
 creator = noone

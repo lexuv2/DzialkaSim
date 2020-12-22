@@ -6,4 +6,3 @@ else
 image_alpha=clamp(image_alpha+0.05,0.3,1)
 
 
-depth=-y-300

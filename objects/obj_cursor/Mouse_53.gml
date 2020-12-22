@@ -10,5 +10,5 @@ if _inst
 			//show_debug_message("hold")
 		inst = _inst
 		hold=true
-		joint = physics_joint_rope_create(obj_player,inst,obj_player.phy_position_x,obj_player.phy_position_y,ppx,ppy,6,false)
+		joint = physics_joint_rope_create(obj_player,inst,obj_player.phy_position_x,obj_player.phy_position_y,ppx,ppy,12,false)
 }

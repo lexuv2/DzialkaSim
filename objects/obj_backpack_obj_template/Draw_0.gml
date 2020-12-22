@@ -2,6 +2,9 @@
 // You can write your code in this editor
 draw_self()
 
+if debug_mode
+draw_text(x,y,ls)
+
 if draw_desc
 {
 	draw_set_color(c_white)

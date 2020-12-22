@@ -10,3 +10,4 @@ draw_self()
 
 draw_set_alpha(pre_a)
 shader_reset()
+

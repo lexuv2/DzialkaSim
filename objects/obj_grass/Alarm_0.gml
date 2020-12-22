@@ -33,4 +33,4 @@ ang_velocity=0
 if point_distance(x,y,obj_player.x,obj_player.y)<60
 alarm_set(0,1)
 else 
-alarm_set(0,30)
+alarm_set(0,irandom_range(30,60))

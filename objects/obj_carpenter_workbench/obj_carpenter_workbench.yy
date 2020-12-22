@@ -34,6 +34,7 @@
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_wood_log_stripped","path":"objects/obj_wood_log_stripped/obj_wood_log_stripped.yy",},"parent":{"name":"obj_carpenter_workbench","path":"objects/obj_carpenter_workbench/obj_carpenter_workbench.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_carpenter_workbench","path":"objects/obj_carpenter_workbench/obj_carpenter_workbench.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_carpenter_workbench","path":"objects/obj_carpenter_workbench/obj_carpenter_workbench.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_carpenter_workbench","path":"objects/obj_carpenter_workbench/obj_carpenter_workbench.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

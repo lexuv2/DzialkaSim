@@ -4,30 +4,30 @@
 
 //kod na noszenie ciężkich itemów
 #region 
-if holds_heavy_item==false
-{
-	var xy = scr_lenghtdir_mouse(8)
-	if collision_circle(xy[0],xy[1],8,obj_heavy_object,true,false)
-	{
+//if holds_heavy_item==false
+//{
+//	var xy = scr_lenghtdir_mouse(8)
+//	if collision_circle(xy[0],xy[1],8,obj_heavy_object,true,false)
+//	{
 		
-		show_debug_message("hold")
-		inst = collision_circle(xy[0],xy[1],12,obj_heavy_object,true,false)
-		holds_heavy_item=true
-		joint = physics_joint_rope_create(id,inst,xy[0],xy[1],xy[0],xy[1],3,false)
+//		show_debug_message("hold")
+//		inst = collision_circle(xy[0],xy[1],12,obj_heavy_object,true,false)
+//		holds_heavy_item=true
+//		joint = physics_joint_rope_create(id,inst,xy[0],xy[1],xy[0],xy[1],3,false)
 		
 		
-	}
-}
-else
-{
-	holds_heavy_item=false
-	physics_joint_delete(joint)
-	with(inst)
-	{
-	phy_position_x = (phy_position_x div 1) * 1;
-	phy_position_y = (phy_position_y div 1) * 1;
-	}
-}
+//	}
+//}
+//else
+//{
+//	holds_heavy_item=false
+//	physics_joint_delete(joint)
+//	with(inst)
+//	{
+//	phy_position_x = (phy_position_x div 1) * 1;
+//	phy_position_y = (phy_position_y div 1) * 1;
+//	}
+//}
 
 var xy = scr_lenghtdir_mouse(8)
 if collision_circle(xy[0],xy[1],8,obj_pickup,true,false)

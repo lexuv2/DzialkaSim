@@ -6,5 +6,8 @@ image_alpha=clamp(image_alpha-0.05,0.3,1)
 else
 image_alpha=clamp(image_alpha+0.05,0.3,1)
 
-
+if keyboard_check(controls.interact)
+{
+	
+}
 
