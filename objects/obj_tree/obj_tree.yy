@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_maple_tree_1",
-    "path": "sprites/spr_maple_tree_1/spr_maple_tree_1.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
